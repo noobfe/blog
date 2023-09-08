@@ -1,7 +1,7 @@
 {
-  "/account": "pages/account.html",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/account": "pages/account.html",
   "/api/deploy": "pages/api/deploy.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
