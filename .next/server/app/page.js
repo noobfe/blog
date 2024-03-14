@@ -328,7 +328,7 @@ __webpack_require__.r(__webpack_exports__);
 function Home() {
     return /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("main", {
         className: "flex min-h-screen flex-col items-center justify-between p-24",
-        children: "Home1"
+        children: "This is my home"
     });
 }
 
